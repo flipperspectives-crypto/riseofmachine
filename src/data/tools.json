@@ -1503,6 +1503,14 @@
           "slug": "justdone-ai"
         },
         {
+          "title": "kdpbook.io",
+          "body": "Describe a book, get KDP-ready files.",
+          "tag": "Freemium",
+          "url": "https://kdpbook.io?ref=riseofmachine.com",
+          "date-added": "2026-09-28",
+          "slug": "kdpbookio"
+        },
+        {
           "title": "Lek",
           "body": "Content generator.",
           "tag": "From $0/mo",
