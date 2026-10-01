@@ -10,10 +10,10 @@
     "grok-video-generator",
     "fliki",
     "viralrot",
-    "photo-to-video-ai",
     "image-to-video",
     "vivago",
     "decohere",
-    "voe-ai"
+    "voe-ai",
+    "dance2ai"
   ]
 }

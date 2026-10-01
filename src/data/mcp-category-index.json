@@ -1,11 +1,11 @@
 {
   "databases": {
     "title": "Databases",
-    "count": 30
+    "count": 31
   },
   "dev-tools": {
     "title": "Dev Tools",
-    "count": 3407
+    "count": 3617
   },
   "cloud-devops": {
     "title": "Cloud & DevOps",
@@ -13,11 +13,11 @@
   },
   "ai-llm": {
     "title": "AI & LLM",
-    "count": 10
+    "count": 11
   },
   "search": {
     "title": "Search",
-    "count": 8
+    "count": 9
   },
   "payments-finance": {
     "title": "Payments & Finance",
@@ -25,7 +25,7 @@
   },
   "communication": {
     "title": "Communication",
-    "count": 8
+    "count": 9
   },
   "crm-sales": {
     "title": "CRM & Sales",
@@ -53,15 +53,15 @@
   },
   "ecommerce": {
     "title": "E-commerce",
-    "count": 2
+    "count": 3
   },
   "marketing": {
     "title": "Marketing",
-    "count": 4
+    "count": 5
   },
   "design": {
     "title": "Design",
-    "count": 6
+    "count": 7
   },
   "maps-location": {
     "title": "Maps & Location",
@@ -73,7 +73,7 @@
   },
   "web-scraping": {
     "title": "Web Scraping",
-    "count": 2
+    "count": 1
   },
   "automation": {
     "title": "Automation",
@@ -81,10 +81,10 @@
   },
   "docs-knowledge": {
     "title": "Docs & Knowledge",
-    "count": 6
+    "count": 7
   },
   "other": {
     "title": "Other",
-    "count": 280
+    "count": 307
   }
 }
