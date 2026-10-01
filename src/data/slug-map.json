@@ -554,6 +554,9 @@
   "justdone-ai": [
     "copywriting"
   ],
+  "kdpbookio": [
+    "copywriting"
+  ],
   "lek": [
     "copywriting"
   ],
@@ -1445,9 +1448,6 @@
   "saga": [
     "gaming"
   ],
-  "silentsalt": [
-    "gaming"
-  ],
   "soga-ai": [
     "gaming"
   ],
@@ -1899,9 +1899,6 @@
     "photos"
   ],
   "ghostface": [
-    "photos"
-  ],
-  "ghostface-ai": [
     "photos"
   ],
   "giffaceswap": [
@@ -2558,9 +2555,6 @@
   "wokelo": [
     "research"
   ],
-  "ai-visibility": [
-    "seo"
-  ],
   "aitdk": [
     "seo"
   ],
@@ -2894,9 +2888,6 @@
   "opusclip": [
     "video"
   ],
-  "photo-to-video-ai": [
-    "video"
-  ],
   "phototo-video": [
     "video"
   ],
@@ -2943,9 +2934,6 @@
     "video"
   ],
   "seedance-2-ai-video-generator": [
-    "video"
-  ],
-  "seedance-2-video": [
     "video"
   ],
   "seedclip": [
